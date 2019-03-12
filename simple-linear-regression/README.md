@@ -16,7 +16,7 @@ Using this insight, we can predict future sales of the company based on current 
 
 
 
-![MinimizeErrors.png](./img/MinimizeErrors.png =200x200)
+![MinimizeErrors.png](./img/MinimizeErrors.png)
 
 links:
 ```html
