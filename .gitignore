@@ -1,0 +1,11 @@
+/.idea/*
+/application.log
+/logs/application.log
+/project/project/target/*
+/project/target/*
+/target/*
+*.iml
+/target/
+
+.idea/
+application-local.yml
