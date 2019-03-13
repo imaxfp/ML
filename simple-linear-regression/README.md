@@ -16,13 +16,54 @@ Using this insight, we can predict future sales of the company based on current 
 
 
 
-![MinimizeErrors.png](./img/MinimizeErrors.png)
+![MinimizeErrors.jpg](./img/MinimizeErrors.jpg)
+
+
+```text
+The simple linear regression model is represented like this: y = β0 +β1 + X
+
+The equation that describes how y is related to x is known as the regression model. 
+
+``` 
+
+
+
+![MainFormula.jpg](./img/Y=b0+b1X.jpg)
+
+
+
+###How to calculate linear regression using least square method
+```text
+
+
+First, find the mean of X and Y lines
+   
+_    X1 + X2 + Xn
+X = -------------
+          n
+```
+![MainFormula.jpg](./img/Mean.jpg)
+
+
+
+```text
+Find the distance observation distance to the X and Y 'mean'
+```
+![MainFormula.jpg](./img/ObservationDistance.jpg)
+
+
+```text
+y = β0 +β1 + X Determination what is β0 and β1 (slope) 
+```
+![Slope.jpg](./img/Slope.jpg)
+
+
 
 links:
 ```html
 https://newonlinecourses.science.psu.edu/stat501/node/251/
 https://www.thebalancesmb.com/what-is-simple-linear-regression-2296697
-
+https://www.youtube.com/watch?v=JvS2triCgOY
 ```
 
 
