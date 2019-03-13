@@ -1,6 +1,6 @@
 ### Simple linear regression demo
 
-```text
+
 Simple linear regression gets its adjective "simple" because it concerns the study of only one predictor variable.
 
 Predictive modelling technique which investigates the relationship between a dependent (target) and independent variable (s) (predictor).
@@ -12,7 +12,7 @@ The factor that is being predicted (the factor that the equation solves for) is 
 The factors that are used to predict the value of the dependent variable are called the independent variables.
 
 Using this insight, we can predict future sales of the company based on current & past information.
-```
+
 
 
 
@@ -32,7 +32,7 @@ The equation that describes how y is related to x is known as the regression mod
 
 
 
-###How to calculate linear regression using least square method
+### How to calculate linear regression using least square method
 ```text
 
 
