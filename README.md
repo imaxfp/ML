@@ -137,9 +137,9 @@ Models can take many shapes, from simple linear regressions to deep neural netwo
 but all supervised models are based on the fundamental idea of learning **relationships between inputs and outputs 
 from training data.**
 
-![fitingModel.jpg](regression/img/main/fitingModel.jpg)
+![fitingModel.jpg](img/main/fitingModel.jpg)
 
-![fitingModel2.jpg](regression/img/main/fitingModel2.png)
+![fitingModel2.jpg](img/main/fitingModel2.png)
 
 
 **Underfitting** - does not cover all the points shown in the graph
